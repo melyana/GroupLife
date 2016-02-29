@@ -1,0 +1,6 @@
+﻿Generated model file: IGLContext.edmx.
+Loading metadata from the database took 00:00:01.9984297.
+Generating the model took 00:00:02.0841726.
+Generated model file: IGLContext.edmx.
+Loading metadata from the database took 00:00:00.7064542.
+Generating the model took 00:00:00.5775162.
